@@ -1,0 +1,29 @@
+{
+  "name": "jiluo-cc.github.io",
+  "version": "0.0.1-alpha.1",
+  "scripts": {
+    "dev": "vitepress",
+    "build": "vitepress build",
+    "preview": "vitepress preview",
+    "preinstall": "npx only-allow pnpm"
+  },
+  "description": "jiluo.cc 本人的开源个人网站",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiluo-cc/jiluo-cc.github.io.git"
+  },
+  "keywords": [
+    "jiluo",
+    "jiluo.cc"
+  ],
+  "author": "jiluo.cc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiluo-cc/jiluo-cc.github.io/issues"
+  },
+  "homepage": "https://jiluo-cc.github.io",
+  "devDependencies": {
+    "vitepress": "1.0.0-alpha.65"
+  }
+}

@@ -1,0 +1,14 @@
+# 忽略日志文件
+logs
+*.log
+
+# 忽略本地环境开发临时文件
+.vscode
+node_modules
+*.local
+.idea
+.DS_Store
+
+# 忽略打包文件
+.vitepress/dist
+.vitepress/cache
